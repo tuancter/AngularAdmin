@@ -1,0 +1,11 @@
+# Node/Angular
+node_modules/
+.dist/
+dist/
+.tmp/
+.angular/
+.DS_Store
+.env
+.env.local
+.npmrc
+package-lock.json
